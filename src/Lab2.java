@@ -15,7 +15,7 @@ import java.io.PrintWriter;
 
 /**
  *
- * @author L115student
+ * @author L117student
  */
 public class Lab2 {
     public static void main(String[] args) {
